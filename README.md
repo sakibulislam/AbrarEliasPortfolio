@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # AbrarEliasPortfolio
-This is simple HTML, CSS, JavaScript Portfolio template.
+This is simple HTML, CSS, JavaScript Portfolio template. Source from:https://github.com/nisarhassan12/portfolio-template 
 =======
 # Portfolio Template
 
